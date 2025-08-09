@@ -6,7 +6,7 @@ import os
 def main():
     """
     在PyBullet中加载ANYmal C模型和一个平坦的地面。
-    """
+    """ 
     # 1. 连接到PyBullet物理引擎
     # 使用p.GUI连接到一个带图形用户界面的实例
     # 使用p.DIRECT将连接到一个没有GUI的实例
